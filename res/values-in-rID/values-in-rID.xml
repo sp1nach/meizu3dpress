@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SentuhanPaksa</string>
+    <string name="has_mark_read">Memiliki tanda sebagai telah dibaca</string>
+    <string name="has_mark_unread">Memiliki tanda sebagai belum dibaca</string>
+    <string name="pull_to_mark_read">Tarik untuk menandai sebagai telah dibaca</string>
+    <string name="pull_to_mark_unread">Tarik untuk menandai sebagai belum dibaca</string>
+</resources>

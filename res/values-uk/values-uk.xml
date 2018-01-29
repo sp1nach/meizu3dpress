@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForceTouch</string>
+    <string name="has_mark_read">Позначити як прочитане</string>
+    <string name="has_mark_unread">Має відзначити непрочитані</string>
+    <string name="pull_to_mark_read">Потягніть, щоб відзначити прочитане</string>
+    <string name="pull_to_mark_unread">Потягніть, щоб відзначити непрочитані</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מגע חובה</string>
+    <string name="has_mark_read">סומן כנקרא</string>
+    <string name="has_mark_unread">סומן כנקרא</string>
+    <string name="pull_to_mark_read">משוך כדי לסמן כנקרא</string>
+    <string name="pull_to_mark_unread">בטל סימון כנקרא</string>
+</resources>

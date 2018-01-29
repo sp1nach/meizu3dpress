@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बलपूर्वक स्पर्श करें</string>
+    <string name="has_mark_read">पठित चिह्नित कर दिया है</string>
+    <string name="has_mark_unread">अपठित चिह्नित कर दिया है</string>
+    <string name="pull_to_mark_read">पठित चिह्नित करने के लिए खींचें</string>
+    <string name="pull_to_mark_unread">अपठित चिह्नित करने के लिए खींचें</string>
+</resources>
