@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">ចុចតម្អក់​​</string>
-    <string name="has_mark_read">បាន​គូសសម្គាល់​ថា​បាន​អាន​រួច</string>
-    <string name="has_mark_unread">បាន​គូសសម្គាល់​ថា​មិន​ទាន់​បាន​អាន​</string>
-    <string name="pull_to_mark_read">ទាញ​ដើម្បី​គូស​សម្គាល់​ថាបាន​អាន​រួច</string>
-    <string name="pull_to_mark_unread">ទាញ​ដើម្បី​គូស​សម្គាល់​ថាមិនទាន់បាន​អាន​រួច</string>
-</resources>

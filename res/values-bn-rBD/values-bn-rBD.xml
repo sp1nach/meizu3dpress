@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">জোরপূর্বক স্পর্শ করুন</string>
-    <string name="has_mark_read">পঠিত হিসেবে চিহ্নিত রয়েছে</string>
-    <string name="has_mark_unread">অপঠিত হিসেবে চিহ্নিত রয়েছে</string>
-    <string name="pull_to_mark_read">পঠিত চিহ্নিত করতে পুল করুন</string>
-    <string name="pull_to_mark_unread">অপঠিত চিহ্নিত করতে পুল করুন</string>
-</resources>

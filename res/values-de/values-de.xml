@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">ForceTouch</string>
-    <string name="has_mark_read">Als gelesen markieren</string>
-    <string name="has_mark_unread">Als ungelesen markiert</string>
-    <string name="pull_to_mark_read">Ziehen, um als gelesen zu markieren</string>
-    <string name="pull_to_mark_unread">Ziehen, um als ungelesen zu markieren</string>
-</resources>

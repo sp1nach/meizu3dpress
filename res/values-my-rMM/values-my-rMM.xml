@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">ၾကမ္းၾကမ္းႏွိပ္ျခင္း</string>
-    <string name="has_mark_read">ဖတ္႐ႈၿပီးအျဖစ္ မွတ္သားထားသည္</string>
-    <string name="has_mark_unread">မဖတ္ရေသးအျဖစ္ မွတ္သားထားသည္</string>
-    <string name="pull_to_mark_read">ဖတ္႐ႈၿပီးအျဖစ္မွတ္သားရန္ ဆြဲခ်ပါ</string>
-    <string name="pull_to_mark_unread">မဖတ္ရေသးအျဖစ္မွတ္သားရန္ ဆြဲခ်ပါ</string>
-</resources>

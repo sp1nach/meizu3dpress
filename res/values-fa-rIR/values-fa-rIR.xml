@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">لمس اجباری</string>
-    <string name="has_mark_read">خوانده شده علامت گذاری شده است</string>
-    <string name="has_mark_unread">خوانده نشده علامت گذاری شده است</string>
-    <string name="pull_to_mark_read">برای علامت گذاری خوانده شده، نگه دارید</string>
-    <string name="pull_to_mark_unread">برای علامت گذاری خوانده نشده، نگه دارید</string>
-</resources>

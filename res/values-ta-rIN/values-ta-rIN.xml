@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">ஃபோர்ஸ்டச்</string>
-    <string name="has_mark_read">வாசித்ததாகக் குறித்துள்ளார்</string>
-    <string name="has_mark_unread">வாசிக்கவில்லை எனக் குறித்துள்ளார்</string>
-    <string name="pull_to_mark_read">வாசித்ததாகக் குறிக்க, இழுக்கவும்</string>
-    <string name="pull_to_mark_unread">வாசிக்கவில்லை எனக் குறிக்க, இழுக்கவும்</string>
-</resources>
