@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قوة اللمس</string>
+    <string name="has_mark_read">تم تحديد المقروء</string>
+    <string name="has_mark_unread">تم تحديد غير المقروء</string>
+    <string name="pull_to_mark_read">اسحب لتحديد المقروء</string>
+    <string name="pull_to_mark_unread">اسحب لتحديد غير المقروء</string>
+</resources>

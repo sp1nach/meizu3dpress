@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Tentera Touch"</string>
+    <string name="has_mark_read">"Mempunyai tanda baca"</string>
+    <string name="has_mark_unread">"Telah menandakan belum dibaca"</string>
+    <string name="pull_to_mark_read">"Tarik untuk menandakan membaca"</string>
+    <string name="pull_to_mark_unread">"Tarik untuk menandakan belum dibaca"</string>
+</resources>
